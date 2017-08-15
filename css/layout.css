@@ -93,3 +93,23 @@ select {
   box-sizing: border-box;
   outline: 0;
 }
+
+
+/***********样式************/
+.indexHead{
+  margin: 0 auto;
+  width: 1200px;
+}
+.indexHead .box{
+  
+  box-sizing: border-box;
+ 
+  margin-right: -75px;
+}
+.indexHead .box li{
+  width: 350px;
+  margin-right: 75px;
+  height: 100px;
+  border:1px solid #333;
+  float: left;
+}
